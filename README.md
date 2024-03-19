@@ -1,10 +1,10 @@
 # ICS2O Unit #X-YY
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Mr Coxall's Super Linter](https://github.com/LukeDiBert/Unit2-03-HTML-StreetAddress/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/LukeDiBert/Unit2-03-HTML-StreetAddress/actions)
 
-[![Deploy Pages](https://github.com/<OWNER>/<REPOSITORY>/workflows/Deploy%20Pages/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Deploy Pages](https://github.com/LukeDiBert/Unit2-03-HTML-StreetAddress/workflows/Deploy%20Pages/badge.svg)](https://github.com/LukeDiBert/Unit2-03-HTML-StreetAddress/actions)
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
+This site can be found at: [https://LukeDiBert/Unit2-03-HTML-StreetAddress](https://LukeDiBert/Unit2-03-HTML-StreetAddress)
 
 ---
 
